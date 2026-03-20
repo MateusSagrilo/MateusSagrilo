@@ -1,7 +1,7 @@
 ## Olá! Sou Mateus Sagrilo 👋
 
-- 🔭 Desenvolvedor Front-end Júnior
-- 🌱 Atualmente estudando Typescript, React e NextJS.
+- 🔭 Desenvolvedor Fullstack Júnior
+- 🌱 Atualmente estudando Typescript, React e NextJS, com aplicação de IA nos projetos para aumento de produtividade.
 
 
 
